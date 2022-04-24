@@ -1,2 +1,0 @@
-# TEAMNCA
-Project economy 
